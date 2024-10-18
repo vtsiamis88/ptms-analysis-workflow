@@ -1,0 +1,17 @@
+Data input:
+-File: Normalized_PTMs.csv
+-Column names: yes
+-Row names: no
+-Delimiter character: ,
+-Decimal character: .
+
+Data layout:
+-First column for quantification: 4
+-Replicates are grouped: no
+-Number of replicates: 3
+-Number of conditions: 6
+
+Statistical testing:
+-Paired tests: no
+-Comparisons: C2vsC1, C3vsC1, C4vsC1, C5vsC1, C6vsC1
+-Output file: PTMs_Statistics.csv

@@ -1,0 +1,22 @@
+Input:
+-Files: Peptide_report.csv and uniprot-(taxonomy_9606)+AND+reviewed_yes.fasta
+-Data log transformed: yes
+
+Conditions and Samples:
+-Number of quantitative columns: 18
+-Number of conditions: 6
+-Maximum NA values per peptide: 16
+
+Modifications and Normalization:
+-Choose modifications to quantify: Acetyl and Phospho
+-Normalization method: median
+
+Protein Inference:
+-Inference method: strict
+
+Protein Quantification:
+-fast-FARMS weight: 0.1
+-fast-FARMS mu: 0.1
+-Rescale (relative quantification) by: average
+-Peptide weight threshold (GCI): 0.1
+-Output file: Protein_Expressions.csv

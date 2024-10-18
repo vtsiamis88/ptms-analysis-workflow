@@ -1,0 +1,15 @@
+File input:
+-File: Protein_Expression_Significant.csv
+-Column names: yes
+-Gene/protein identifiers: no
+-Estimate vriance levels: yes
+-Paired tests: no
+-Replicates are group: no
+-Number of replicates: 3
+-Number of conditions: 6
+
+Estimation of cluster number:
+-Maximum number of clusters for estimation: 25
+
+Clustering results/variance-based:
+-Number of clusters: 5

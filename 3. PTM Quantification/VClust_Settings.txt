@@ -1,0 +1,17 @@
+File input:
+-File: Phospho_Significant.csv / Acetyl_Significant.csv
+-Column names: yes/yes
+-Gene/protein identifiers: no/no
+-Estimate vriance levels: yes/yes
+-Paired tests: no/no
+-Replicates are group: no/no
+-Number of replicates: 3/3
+-Number of conditions: 6/6
+
+Estimation of cluster number:
+-Maximum number of clusters for estimation: 25/25
+
+Clustering results/variance-based:
+-Number of clusters: 6/3
+
+Output: Phospho_Clusters.csv / Acetyl_Clusters.csv
